@@ -1,0 +1,4 @@
+ADD_CHILD Flora Edward Male
+GET_RELATIONSHIP Bill Son
+GET_RELATIONSHIP Lily Siblings
+GET_RELATIONSHIP James Maternal-Uncle
